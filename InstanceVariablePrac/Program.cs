@@ -10,6 +10,7 @@ namespace InstanceVariablePrac
     {
         static void Main(string[] args)
         {
+            product product1 = new product();
         }
     }
 }
